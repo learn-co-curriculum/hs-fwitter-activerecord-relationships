@@ -30,3 +30,5 @@ This iteration of the Fwitter project focuses on adding a User class and ActiveR
     * This controller action uses information from the `params` hash to create a new instance of the User class and save it to the database.
   * `get '/tweets'` is a route that displays loads `tweet.rb` to display all the tweets
   * `get '/users'` is a route that loads `users.erb`, which is the sign-up form.
+
+<a href='https://learn.co/lessons/hs-fwitter-4-activerecord-relationships' data-visibility='hidden'>View this lesson on Learn.co</a>
